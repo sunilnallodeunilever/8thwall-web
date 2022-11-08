@@ -1,0 +1,26 @@
+{
+  "name": "8thwall-web",
+  "version": "1.0.0",
+  "description": "8th Wall Web: Web AR for mobile devices!",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilnallodeunilever/8thwall-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilnallodeunilever/8thwall-web/issues"
+  },
+  "homepage": "https://github.com/sunilnallodeunilever/8thwall-web#readme",
+  "dependencies": {
+    "serve": "file:serve"
+  }
+}
